@@ -1,4 +1,4 @@
-natalia = 32
-Rochelle = 30
+natalia = 21
+Rochelle = 36
 
 print("natalia" + "Rochelle")
